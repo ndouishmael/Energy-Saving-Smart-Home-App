@@ -1,0 +1,53 @@
+/* Button Styles */
+.button {
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: #555;
+}
+
+.primary-button {
+    background-color: #007bff;
+}
+
+.primary-button:hover {
+    background-color: #0069d9;
+}
+
+.secondary-button {
+    background-color: #6c757d;
+}
+
+.secondary-button:hover {
+    background-color: #5a6268;
+}
+
+.success-button {
+    background-color: #28a745;
+}
+
+.success-button:hover {
+    background-color: #218838;
+}
+
+.warning-button {
+    background-color: #ffc107;
+}
+
+.warning-button:hover {
+    background-color: #e0a800;
+}
+
+.error-button {
+    background-color: #dc3545;
+}
+
+.error-button:hover {
+    background-color: #c82333;
+}
