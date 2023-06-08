@@ -1,1 +1,1 @@
-# Energy-Saving-Smart-Home-App-
+The purpose of this project is to develop an energy-saving app for smart homes that helps homeowners reduce their electricity bills by automatically managing energy usage. The app will use sensors to detect when appliances and lights are not being used and switch them off to save energy
